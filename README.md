@@ -1,78 +1,56 @@
-# 🏔️ Sơn Môn Tịnh Xá - Nơi Tu Luyện Lời Hay Ý Đẹp
+# 🏔 Sơn Môn Tịnh Xá - Chi Nhánh META
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Môn_phái-Chính_Đạo-orange?style=for-the-badge&logo=leaflet&logoColor=white" alt="Chính đạo"/>
-  <img src="https://img.shields.io/badge/Nội_công-Thâm_Hậu-green?style=for-the-badge" alt="Nội công thâm hậu"/>
-  <img src="https://img.shields.io/github/stars/son-mon-tinh-xa/son-mon-tinh-xa?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Môn_phái-Tà_Đạo_Thịnh_Hành-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Tà đạo"/>
+  <img src="https://img.shields.io/badge/Nội_công-Rỗng_Tuếch-grey?style=for-the-badge" alt="Nội công rỗng"/>
+  <img src="https://img.shields.io/badge/Thuật_toán-Ưu_Tiên_Phẫn_Nộ-black?style=for-the-badge" alt="Thuật toán"/>
 </p>
 
 <p align="center">
-  <b>Chốn tu tập cho những ai muốn <i>tu tâm dưỡng tính, luyện lời trước khi buông</i></b><br>
-  Chúng ta không chỉ lướt mạng, chúng ta đang <i>tu luyện</i> trên mạng.
+  <b>Internet là sơn môn, nhưng Meta là cái chợ.</b><br>
+  Nơi chính đạo thì ít mà tà đạo thì đang chạy Ads.
 </p>
 
 <div align="center">
 
-![Internet là sơn môn của chúng ta](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Internet%20l%C3%A0%20s%C6%A1n%20m%C3%B4n%20c%E1%BB%A7a%20ch%C3%BAng%20ta&fontAlignY=40&animation=twinkling)
+![Internet là sơn môn của chúng ta](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ch%C3%A0o%20m%E1%BB%ABng%20%C4%91%E1%BA%BFn%20ch%E1%BB%A3%20Meta&fontAlignY=40&animation=twinkling)
 
 </div>
 
 ---
 
-## 🧘 Ẩn sĩ chân chính là ai?
+## 🔥 Thực trạng tu luyện trên Meta hiện nay (2026)
 
-- ✓ Biết mình đang **đối thoại** với **người thật**, không phải hình nhân để trút giận
-- ✓ Xuất khẩu **lời hay**, không phóng **ám khí** vào tin nhắn người khác
-- ✓ Nói có căn cứ, có kinh sách dẫn chứng → tôn trọng **tâm trí & niềm tin** của người nghe
-- ✓ Hiểu rằng: Một lời buông ẩu có thể khiến người khác **tẩu hỏa nhập ma cả ngày**
-- ✓ Chọn **tu luyện nội công** thay vì **múa võ mồm** chỉ để câu vài tiếng vỗ tay
+Sơn môn không còn thanh tịnh như xưa:
+
+- **Thuật toán luyện tà công:** Cứ cái gì gây phẫn nộ, gây war, là được đẩy lên. Lời hay ý đẹp thì flop.
+- **Ẩn sĩ clone:** Một người 10 nick, 3 page, 5 group. Không tu tâm, chỉ tu tương tác.
+- **Môn phái Content Farm:** Dùng AI viết 100 bài/ngày, cap giật gân, ảnh AI tay 6 ngón. Không cần đúng, chỉ cần viral.
+- **Phái Seeding & Bóc Phốt:** Chưa cần biết đúng sai, cứ vào thả một câu "Ăn tiền QC à?" là xong một kiếp tu.
+- **Luyện Reels bất chấp:** Giật giật, capcut template, nhạc remix, nói nhanh như tụng kinh để giữ chân 3 giây đầu.
+
+> Chính đạo nói 10 câu có nguồn, không bằng tà đạo thả 1 icon 😂
 
 ---
 
-## ⚖️ Bảng đối chiếu hai lối tu
+## 🧘 Ẩn sĩ chân chính - Loài sắp tuyệt chủng
+
+- ✓ Vẫn tin mình đang đối thoại với **người thật**, dù 90% là nick ảo vào cà khịa
+- ✓ Gõ xong còn đọc lại, xóa đi gõ lại vì sợ làm người khác tổn thương
+- ✓ Trích nguồn, dẫn link, nhưng bị rep "dài quá không đọc"
+- ✓ Bị chửi xong vẫn "Dạ vâng, cảm ơn huynh đã góp ý ạ"
+- ✓ Chính vì thế nên... ít like, ít view, và đang nản dần
+
+---
+
+## ⚖ Bảng đối chiếu: Lý tưởng vs Thực tế Meta
 
 ```diff
-- Tà đạo lộng ngôn (toxic)           + Chính đạo trực ngôn (constructive)
------------------------------------------------------------------------
-- "Võ công ta cao, ngươi dốt mới chê" + "Cách này có điểm mạnh X vì lý do Y..."
-- Buông lời ám khí, không giải thích   + Trình bày rõ ràng từng luận điểm
-- "Kệ ngươi, ta chẳng bận tâm"         + "Có lẽ huynh/tỷ nên cân nhắc điều này..."
-- Không dẫn kinh, không có căn cứ      + Có nguồn/tài liệu để đối chứng
-- Chỉ dèm pha môn phái khác            + So sánh + chỉ ra sở trường thuyết phục
-```
+- Lý tưởng Chính Đạo (trong mơ)         + Thực tế Tà Đạo trên Meta (đang diễn ra)
 
----
-
-## 📜 Bí kíp đang được truyền thụ
-
-| Bí kíp | Phẩm cấp | Học phí | Ghi chú |
-|--------|----------|---------|---------|
-| Phản biện văn minh | ⭐⭐⭐⭐⭐ | Miễn phí | Có xuất xứ rõ ràng |
-| Góp ý xây dựng | ⭐⭐⭐⭐⭐ | Miễn phí | Bảo hành trọn đời tu vi |
-| Lời nói tử tế | ⭐⭐⭐⭐ | Miễn phí | Truyền thừa chính tông |
-| Khẩu nghiệp vô cớ | ❌ | Không truyền | Tà công, cấm luyện |
-| Ám khí không nguồn | ❌ | Không truyền | Ngụy kinh, thất truyền vĩnh viễn |
-
----
-
-## 🙏 Quy tắc sám hối & tái nhập môn
-
-> **"Lỡ tay luyện tà công? Quay đầu là bờ, không cần trình báo."**
-
-- Nếu bạn lỡ **buông lời ác khẩu** (mỉa mai vô cớ, ghét bỏ không lý do) → hồi tâm chuyển ý, tu lại từ đầu
-- Không luận công tội quá khứ — **ai cũng có thể đắc đạo lại từ số 0**
-- Hỗ trợ **24/7**: các sư huynh sư tỷ trong môn luôn sẵn lòng chỉ điểm
-
----
-
-## 📿 Câu đối treo trước sơn môn
-
-> *"Tu tâm trước khi tu khẩu — trên mạng cũng vậy."*
-> *"Nội công thâm hậu không cần phô trương ngoài miệng."*
-> *"Uy tín là đạo hạnh, thái độ là pháp danh."*
-
----
-
-<p align="center">
-  Được trấn giữ bởi các ẩn sĩ có tâm 🏔️ | Không luyện tà công, không khẩu nghiệp
-</p>
+- "Mình có góc nhìn khác vì X, Y..."     + "Thằng này ngáo à? :))"
+- Trình bày luận điểm rõ ràng            + "Dài dòng, ai rảnh đọc?"
+- "Huynh nên cân nhắc thêm..."           + "Bố mày nói thế đấy, ý kiến gì?"
+- Dẫn nguồn chính thống                  + Nguồn: "Tao hóng được", "Trust me bro"
+- Tranh luận để hiểu nhau                + Tranh luận để thắng, thắng để được cap màn hình khoe
+- Uy tín là đạo hạnh                     + Uy tín = tick xanh mua 300k + chạy ads
